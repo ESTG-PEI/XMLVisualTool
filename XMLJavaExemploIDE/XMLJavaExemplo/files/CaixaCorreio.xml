@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email type = "Profissional">
+        <to></to>
+        <from></from>
+        <date>
+            <year>2018</year>
+            <month>10</month>
+            <day>12</day>
+        </date>
+        <heading></heading>
+        <body></body>
+    </email>
+     <email type = "Personal">
+        <to></to>
+        <from></from>
+        <heading></heading>
+        <body></body>
+    </email>
+</emails>
